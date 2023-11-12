@@ -1,0 +1,21 @@
+C:\Users\Melik_rd02\Desktop\IMDB Search\bin\Debug\net6.0-windows\IMDB Search.exe
+C:\Users\Melik_rd02\Desktop\IMDB Search\bin\Debug\net6.0-windows\IMDB Search.deps.json
+C:\Users\Melik_rd02\Desktop\IMDB Search\bin\Debug\net6.0-windows\IMDB Search.runtimeconfig.json
+C:\Users\Melik_rd02\Desktop\IMDB Search\bin\Debug\net6.0-windows\IMDB Search.dll
+C:\Users\Melik_rd02\Desktop\IMDB Search\bin\Debug\net6.0-windows\IMDB Search.pdb
+C:\Users\Melik_rd02\Desktop\IMDB Search\obj\Debug\net6.0-windows\IMDB Search.csproj.AssemblyReference.cache
+C:\Users\Melik_rd02\Desktop\IMDB Search\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Melik_rd02\Desktop\IMDB Search\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Melik_rd02\Desktop\IMDB Search\obj\Debug\net6.0-windows\IMDB Search_MarkupCompile.cache
+C:\Users\Melik_rd02\Desktop\IMDB Search\obj\Debug\net6.0-windows\IMDB Search_MarkupCompile.lref
+C:\Users\Melik_rd02\Desktop\IMDB Search\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Melik_rd02\Desktop\IMDB Search\obj\Debug\net6.0-windows\IMDB Search.g.resources
+C:\Users\Melik_rd02\Desktop\IMDB Search\obj\Debug\net6.0-windows\IMDB Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melik_rd02\Desktop\IMDB Search\obj\Debug\net6.0-windows\IMDB Search.AssemblyInfoInputs.cache
+C:\Users\Melik_rd02\Desktop\IMDB Search\obj\Debug\net6.0-windows\IMDB Search.AssemblyInfo.cs
+C:\Users\Melik_rd02\Desktop\IMDB Search\obj\Debug\net6.0-windows\IMDB Search.csproj.CoreCompileInputs.cache
+C:\Users\Melik_rd02\Desktop\IMDB Search\obj\Debug\net6.0-windows\IMDB Search.dll
+C:\Users\Melik_rd02\Desktop\IMDB Search\obj\Debug\net6.0-windows\refint\IMDB Search.dll
+C:\Users\Melik_rd02\Desktop\IMDB Search\obj\Debug\net6.0-windows\IMDB Search.pdb
+C:\Users\Melik_rd02\Desktop\IMDB Search\obj\Debug\net6.0-windows\IMDB Search.genruntimeconfig.cache
+C:\Users\Melik_rd02\Desktop\IMDB Search\obj\Debug\net6.0-windows\ref\IMDB Search.dll
