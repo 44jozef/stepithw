@@ -1,6 +1,0 @@
-C:\Users\Melik_rd02\Desktop\SuperNotepad\obj\Debug\net7.0-windows\SuperNotepad.csproj.AssemblyReference.cache
-C:\Users\Melik_rd02\Desktop\SuperNotepad\obj\Debug\net7.0-windows\View\MainWindow.g.cs
-C:\Users\Melik_rd02\Desktop\SuperNotepad\obj\Debug\net7.0-windows\App.g.cs
-C:\Users\Melik_rd02\Desktop\SuperNotepad\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
-C:\Users\Melik_rd02\Desktop\SuperNotepad\obj\Debug\net7.0-windows\SuperNotepad_MarkupCompile.cache
-C:\Users\Melik_rd02\Desktop\SuperNotepad\obj\Debug\net7.0-windows\SuperNotepad_MarkupCompile.lref
