@@ -1,0 +1,15 @@
+C:\Users\Melik_rd02\source\repos\CarFactory\ConsoleApp2\obj\Debug\net6.0\CarFactory.csproj.AssemblyReference.cache
+C:\Users\Melik_rd02\source\repos\CarFactory\ConsoleApp2\obj\Debug\net6.0\CarFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melik_rd02\source\repos\CarFactory\ConsoleApp2\obj\Debug\net6.0\CarFactory.AssemblyInfoInputs.cache
+C:\Users\Melik_rd02\source\repos\CarFactory\ConsoleApp2\obj\Debug\net6.0\CarFactory.AssemblyInfo.cs
+C:\Users\Melik_rd02\source\repos\CarFactory\ConsoleApp2\obj\Debug\net6.0\CarFactory.csproj.CoreCompileInputs.cache
+C:\Users\Melik_rd02\source\repos\CarFactory\ConsoleApp2\bin\Debug\net6.0\CarFactory.exe
+C:\Users\Melik_rd02\source\repos\CarFactory\ConsoleApp2\bin\Debug\net6.0\CarFactory.deps.json
+C:\Users\Melik_rd02\source\repos\CarFactory\ConsoleApp2\bin\Debug\net6.0\CarFactory.runtimeconfig.json
+C:\Users\Melik_rd02\source\repos\CarFactory\ConsoleApp2\bin\Debug\net6.0\CarFactory.dll
+C:\Users\Melik_rd02\source\repos\CarFactory\ConsoleApp2\bin\Debug\net6.0\CarFactory.pdb
+C:\Users\Melik_rd02\source\repos\CarFactory\ConsoleApp2\obj\Debug\net6.0\CarFactory.dll
+C:\Users\Melik_rd02\source\repos\CarFactory\ConsoleApp2\obj\Debug\net6.0\refint\CarFactory.dll
+C:\Users\Melik_rd02\source\repos\CarFactory\ConsoleApp2\obj\Debug\net6.0\CarFactory.pdb
+C:\Users\Melik_rd02\source\repos\CarFactory\ConsoleApp2\obj\Debug\net6.0\CarFactory.genruntimeconfig.cache
+C:\Users\Melik_rd02\source\repos\CarFactory\ConsoleApp2\obj\Debug\net6.0\ref\CarFactory.dll
