@@ -1,0 +1,189 @@
+@font-face {
+  font-family: "Inter";
+  src: url(../assets/fonts/Inter-Regular.ttf);
+}
+
+@font-face {
+  font-family: "Inter-Bold";
+  src: url(../assets/fonts/Inter-Bold.ttf);
+}
+
+* {
+  background-color: #fbf2e9;
+  font-family: "Inter";
+}
+
+.btn {
+  width: 80%;
+  text-decoration: none;
+  color: #000;
+  background-color: #e1e1e1;
+  border-radius: 5px;
+  text-align: center;
+  border: solid thin;
+  justify-self: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  .header {
+    font-family: "Inter-Bold";
+  }
+
+
+  .search-window {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+    .search-form {
+      border: thin solid #d1cdc9;
+      border-radius: 5px;
+      padding: 30px;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+
+      .title {
+        display: flex;
+        width: 80%;
+        margin-bottom: 10px;
+
+        span {
+          margin-right: 30px;
+        }
+
+        input {
+          width: inherit;
+          background: #fff;
+          border-radius: 5px;
+          border-width: thin;
+          padding-left: 5px;
+        }
+      }
+
+      .type {
+        width: 80%;
+        display: flex;
+        margin-bottom: 10px;
+
+        span {
+          margin-right: 30px;
+        }
+
+        select {
+          background-color: #fff;
+          width: inherit;
+          border-radius: 5px;
+          border: thin solid;
+
+          option {
+            background-color: #fff;
+          }
+        }
+      }
+
+    }
+  }
+
+  .movies-container {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .movies-list {
+      display: grid;
+      grid-template-columns: repeat(5, auto);
+      grid-gap: 1rem;
+
+      .movie-card {
+        display: grid;
+        grid-template-rows: subgrid;
+        grid-row: span 5;
+        text-align: center;
+        border: thin solid #d1cdc9;
+        border-radius: 5px;
+        width: 250px;
+
+        .movie-poster {
+          display: block;
+          max-width: 90%;
+          margin-top: 10px;
+          border-radius: 5px;
+          justify-self: center;
+        }
+      }
+    }
+  }
+
+  .popup-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    display: none;
+    justify-content: center;
+    align-items: center;
+
+    #popup {
+      display: flex;
+      width: 800px;
+      align-self: center;
+      background: rgba(0, 0, 0, 0.8);
+      background-color: #fbf2e9;
+      border-radius: 5px;
+      overflow: hidden;
+
+      #exit-btn {
+        text-decoration: none;
+        font-weight: bold;
+        font-size: 24px;
+        color: #fbf2e9;
+        background: transparent;
+        position: absolute;
+        top: 10px;
+        right: 20px;
+      }
+
+      #popup-image {
+        margin: 20px;
+        border-radius: 5px;
+      }
+
+      .popup-data {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+
+        .popup-data-item {
+          display: flex;
+          align-items: center;
+
+          h4 {
+            width: 100px;
+          }
+        }
+      }
+    }
+  }
+}
+
+.more-btn-container {
+  margin-top: 30px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+
+  .more {
+    display: none;
+    width: 300px;
+  }
+}
