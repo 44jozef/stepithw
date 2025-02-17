@@ -1,0 +1,17 @@
+{
+    "type": "object",
+    "properties": {
+        "firstName": {
+            "type": "string",
+            "example": "Mihail"
+        },
+        "lastName": {
+            "type": "string",
+            "example": "Zubenko"
+        },
+        "age": {
+            "type": "number",
+            "example": 42
+        }
+    }
+}
